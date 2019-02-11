@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "/home/prescott/Documents/code/coding_dojo/algo_stacks/second_stack/sll/cs_sll/cs_sll.csproj",
+  "TargetFramework": "netcoreapp2.2",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
